@@ -1,0 +1,23 @@
+.img-box {
+    width: 60%;
+    margin: 2em auto;
+}
+
+.img-box img {
+    width: 100%;
+}
+
+.heading {
+    padding: 1em;
+    margin-left: 1em;
+}
+
+.heading h1{
+    font-weight: 600;
+    margin-bottom: 0.25em;
+}
+
+.heading p{
+    font-weight: 400;
+    color: #222222;
+}
